@@ -4,7 +4,7 @@ Paylocity Coding Exercise Documentation:
 
 To Run:
 
-	Pull the latest of this code to your local.
+	Clone the latest of this code to your local (Create a new folder on your machine, cd into it and run "git clone https://github.com/TValkavich/PaylocityCodingExercise.git")
 
 	1) Front-End:
 
